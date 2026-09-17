@@ -276,7 +276,9 @@ the.akaarstudios@gmail.com
 
 <div>
 <p>GIVING IDEAS FORM.</p>
-<p>© 2026 ĀKAAR STUDIOS</p>
+<p>© 2026 ĀKAAR STUDIOS.PATNA </p>
+
+
 </div>
 
 <div className="footer-social">
